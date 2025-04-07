@@ -1,21 +1,21 @@
-# 🚀 ScrapeSmart - AI-Powered Web Scraper
+# ScrapeSmart - AI-Powered Web Scraper
 
 **ScrapeSmart** is an advanced AI-driven web scraper that intelligently extracts, processes, and structures data from websites with minimal configuration. Built for developers, researchers, and data enthusiasts, it combines the power of AI with flexible scraping capabilities to deliver clean, organized data.
 
-![ScrapeSmart Banner](https://via.placeholder.com/800x200?text=ScrapeSmart)
+![ScrapeSmart Banner](/icon.png)
 
-## ✨ Key Features
+## Key Features
 
-- 🤖 **AI-Powered Extraction** - Intelligently identifies and extracts relevant content using advanced language models
-- 🔍 **Smart Crawling** - Navigate through multiple pages by following links with configurable depth limits
-- 🧠 **Contextual Understanding** - Extract data that matches specific semantic criteria, not just pattern matching
-- 📊 **Structured Output** - Automatically organizes scraped content into clean, structured formats
-- 🖼️ **Media Support** - Extract images, store them locally, and maintain references in the output data
-- 📤 **Versatile Export** - Save your data in multiple formats (JSON, CSV, Excel, plain text)
-- 🎛️ **User-Friendly Interface** - Intuitive Streamlit-based UI for easy configuration and monitoring
-- 🛡️ **Respectful Scraping** - Built-in rate limiting and user-agent rotation to respect website resources
+-  **AI-Powered Extraction** - Intelligently identifies and extracts relevant content using advanced language models
+-  **Smart Crawling** - Navigate through multiple pages by following links with configurable depth limits
+-  **Contextual Understanding** - Extract data that matches specific semantic criteria, not just pattern matching
+-  **Structured Output** - Automatically organizes scraped content into clean, structured formats
+-  **Media Support** - Extract images, store them locally, and maintain references in the output data
+-  **Versatile Export** - Save your data in multiple formats (JSON, CSV, Excel, plain text)
+-  **User-Friendly Interface** - Intuitive Streamlit-based UI for easy configuration and monitoring
+-  **Respectful Scraping** - Built-in rate limiting and user-agent rotation to respect website resources
 
-## 🔧 Installation
+## Installation
 
 ### Prerequisites
 - Python 3.8+
@@ -53,7 +53,7 @@
    # Add other API keys as needed
    ```
 
-## 📖 Usage Guide
+## Usage Guide
 
 ### Starting the Application
 
@@ -130,11 +130,11 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for HTML parsing
 - [Streamlit](https://streamlit.io/) for the user interface
